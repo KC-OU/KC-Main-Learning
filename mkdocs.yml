@@ -1,0 +1,66 @@
+site_name: KC-RETRO
+site_url: https://kierancollins/retro.co.uk
+repo_url: https://github.com/KC-OU/KC-RETRO
+repo_name: KC-OU/KC-RETRO
+
+# navigation
+
+nav:
+  - Home: 'index.md'
+  - Nintendo:
+      - N64:
+          - 'Nintendo/N64/Nintendo64.md'
+          - genres:
+              - RPG:
+                  - Paper Mario: 
+                      - 'Nintendo/N64/Categories/RPG/PaperMario/PaperMario.md'
+                      - 'Nintendo/N64/Categories/RPG/PaperMario/PaperMario-Achivements.md'
+ 
+ #        - 'PaperMario' :
+  #           - 'Nintendo/N64/Categories/RPG/PaperMario/PaperMario.md'   
+
+
+# Theme config
+theme:
+    # Theme: https://squidfunk.github.io/mkdocs-material/
+    name: material  
+    features:
+    # QOL features
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.tabs.sticky
+    - navigation.path
+    - toc.follow 
+    - navigation.indexes 
+    - content.tooltips
+    - navigation.instant
+    - navigation.sections
+    - content.code.copy
+    - content.code.annotate
+    - announce.dismiss
+    logo: assets/logo.png
+    favicon: images/favicon.png
+    font:
+        text: Raleway
+        code: Ubuntu Mono
+
+  # //TODO: Need to change the fonts
+    palette:
+      - media: "(prefers-color-scheme: dark)"
+        scheme: slate
+        primary: 'blue'
+        accent: 'light blue'
+        toggle:
+            icon: material/brightness-4
+            name: Toggle light mode
+      - media: "(prefers-color-scheme: light)"
+        scheme: light
+        primary: 'blue'
+        accent: 'light blue'
+        toggle:
+            icon: material/brightness-7
+            name: Toggle dark mode
+
+    
