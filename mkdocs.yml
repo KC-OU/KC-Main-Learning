@@ -1,20 +1,20 @@
-site_name: KC-RETRO
-site_url: https://kierancollins/retro.co.uk
-repo_url: https://github.com/KC-OU/KC-RETRO
+site_name: KC Main Learning
+site_url: https://kierancollins/kcmainlearning.co.uk
+repo_url: https://github.com/KC-OU/KC-Main-Learning
 repo_name: KC-OU/KC-RETRO
 
 # navigation
 
 nav:
   - Home: 'index.md'
-  - Nintendo:
-      - N64:
-          - 'Nintendo/N64/Nintendo64.md'
-          - genres:
-              - RPG:
-                  - Paper Mario: 
-                      - 'Nintendo/N64/Categories/RPG/PaperMario/PaperMario.md'
-                      - 'Nintendo/N64/Categories/RPG/PaperMario/PaperMario-Achivements.md'
+  # - Nintendo:
+  #   - N64:
+  #       - 'Nintendo:/N64/Nintendo64.md'
+  #       - genres:
+  #           - RPG:
+  #               - Paper Mario: 
+  #                   - 'Nintendo/N64/Categories/RPG/PaperMario/PaperMario.md'
+  #                   - 'Nintendo/N64/Categories/RPG/PaperMario/PaperMario-Achivements.md'
  
  #        - 'PaperMario' :
   #           - 'Nintendo/N64/Categories/RPG/PaperMario/PaperMario.md'   
