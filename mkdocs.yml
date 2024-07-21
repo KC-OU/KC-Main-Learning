@@ -1,15 +1,15 @@
 site_name: KC Main Learning
 site_url: https://kierancollins/kcmainlearning.co.uk
 repo_url: https://github.com/KC-OU/KC-Main-Learning
-repo_name: KC-OU/KC-RETRO
+repo_name: KC-OU/KC-Main-Learning
 
 # navigation
 
 nav:
   - Home: 'index.md'
-  # - Nintendo:
-  #   - N64:
-  #       - 'Nintendo:/N64/Nintendo64.md'
+  - Course 2 Career:
+     - IT:
+       - 'C2C/IT/Introduction/Welcome-to-your-Cyber-Security-Programme.md'
   #       - genres:
   #           - RPG:
   #               - Paper Mario: 
