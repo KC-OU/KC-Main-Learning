@@ -1,3 +1,7 @@
-# Introduction 
+# Introduction
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=0pLXbmkfvmw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <figure class="video_container">
+  <video controls="true" allowfullscreen="true">
+    <source src="/videos/c2c-introduction.mp4" type="video/mp4">
+  </video>
+</figure>
