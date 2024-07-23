@@ -9,12 +9,20 @@ nav:
   - Home: 'index.md'
   - Course 2 Career:
      - IT:
-       - 'C2C/IT/Introduction/Welcome-to-your-Cyber-Security-Programme.md'
+         - 'C2C/IT/Introduction/Welcome-to-your-Cyber-Security-Programme.md'
+  - Cyber Learning: 
+       - 'Cyber-Learning/cyber.md'
+       - Try Hack Me: 
+         - 'Cyber-Learning/TryHackMe/THM.md'
+         - THM-General: 'Cyber-Learning/TryHackMe/THM-General/THM-General.md'
+           #- THM General:
+         #- 'Cyber-Learning/TryHackMe/THM-General/THM-General.md'
+
   #       - genres:
   #           - RPG:
   #               - Paper Mario: 
   #                   - 'Nintendo/N64/Categories/RPG/PaperMario/PaperMario.md'
-  #                   - 'Nintendo/N64/Categories/RPG/PaperMario/PaperMario-Achivements.md'
+  #                   - 'Nintendo/N64/Categories/RPG/PaperMario/PaperMario-Achivement
  
  #        - 'PaperMario' :
   #           - 'Nintendo/N64/Categories/RPG/PaperMario/PaperMario.md'   
