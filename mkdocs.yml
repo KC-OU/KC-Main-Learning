@@ -15,6 +15,10 @@ nav:
        - Try Hack Me: 
          - 'Cyber-Learning/TryHackMe/THM.md'
          - THM-General: 'Cyber-Learning/TryHackMe/THM-General/THM-General.md'
+         - Info:
+           - 'Cyber-Learning/TryHackMe/THM-General/Info/REmux-The-Tmux.md'
+
+
            #- THM General:
          #- 'Cyber-Learning/TryHackMe/THM-General/THM-General.md'
 
@@ -70,5 +74,13 @@ theme:
         toggle:
             icon: material/brightness-7
             name: Toggle dark mode
-
-    
+markdown_extensions:
+  - tables
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html
