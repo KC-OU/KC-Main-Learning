@@ -17,7 +17,12 @@ nav:
          - THM-General: 'Cyber-Learning/TryHackMe/THM-General/THM-General.md'
          - Info:
            - 'Cyber-Learning/TryHackMe/THM-General/Info/REmux-The-Tmux.md'
-
+  - IT Learning:
+     - CompTIA:
+         - A+ 220-1101 :
+           - Introduction and Overview: 'IT-Cert-Learning/CompTIA/A+/Introduction.md'
+             # - A+ 220-1102 :
+    
 
            #- THM General:
          #- 'Cyber-Learning/TryHackMe/THM-General/THM-General.md'
