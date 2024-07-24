@@ -35,11 +35,11 @@ Start the VM if you need it and ssh in.
 
 To start a new tmux session just run the tmux command with no arguments. The first session create will have the name "0". By default, tmux status bar will be green. With session name on the left. Windows in the middle and window names in the middle. Hostname, time, and date on the right of the bottom green bar.
 
-![Linux](../../../../assets/img/CyberSec/THM-Info/Remux-Linux/tmux-session.png)
+![Linux-session](../../../../assets/img/CyberSec/THM-Info/Remux-Linux/tmux-session.png)
 
 Tmux doesn't allow to create of a nested tmux within a tmux unless you force it to. When running the tmux command a second time.
 
-![linux](../../../../../assets/img/CyberSec/THM-Info/Remux-Linux/tmux-nonest.png)
+![linux-nonest](../../../../assets/img/CyberSec/THM-Info/Remux-Linux/tmux-nonest.png)
 
 To change the session name from "0" -> "box-dev". Must first learn how tmux is called. All commands within a tmux session all start with the tmux prefix is. By default, the tmux prefix is "Ctrl b".
 
