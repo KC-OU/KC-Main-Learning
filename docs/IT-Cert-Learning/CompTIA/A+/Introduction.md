@@ -42,4 +42,17 @@ Below is a video about a success story about a person who, started as a bricklay
 
 <div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/c9eh9x?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
+### Link to PDF and powerpoint files for easier learning
+
+
+#### Powerpoint
+<iframe src="https://1drv.ms/p/c/f3cc7770a9851527/IQM3et5a1iL4S7BgyMYUG5Y3AQCHPFxpknu77rE4bvgxiws" width="700" height="500" frameborder="0" scrolling="no"></iframe>
+
+#### PDF 
+
+[PDF CompTIA A+](https://1drv.ms/b/c/f3cc7770a9851527/EVAB8WXj01hDml7iRyXZPwgBPubsjehC1wAx0fN-BSnprw?e=wtQOS3)
+
+
+
+
 
